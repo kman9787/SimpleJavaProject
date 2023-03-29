@@ -1,2 +1,3 @@
 # SimpleJavaProject
-TEST
+TEST 
+TEST2
