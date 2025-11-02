@@ -1,3 +1,4 @@
 # SimpleJavaProject
-TEST 
-TEST2
+
+
+This is just a scratch project to test some code snippet.
